@@ -1,5 +1,5 @@
 	Description:
-	A simple .dll c# code to write to serialport with arma2net
+	A simple .dll c# code to write & read to serialport with arma2net
 
 	Author:  code34 nicolas_boiteux@yahoo.fr
 
